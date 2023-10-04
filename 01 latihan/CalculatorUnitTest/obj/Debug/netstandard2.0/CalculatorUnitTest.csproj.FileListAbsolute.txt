@@ -1,0 +1,14 @@
+E:\22.11.4814\01 latihan\CalculatorUnitTest\bin\Debug\netstandard2.0\CalculatorUnitTest.deps.json
+E:\22.11.4814\01 latihan\CalculatorUnitTest\bin\Debug\netstandard2.0\CalculatorUnitTest.dll
+E:\22.11.4814\01 latihan\CalculatorUnitTest\bin\Debug\netstandard2.0\CalculatorUnitTest.pdb
+E:\22.11.4814\01 latihan\CalculatorUnitTest\bin\Debug\netstandard2.0\CalculatorMachine.dll
+E:\22.11.4814\01 latihan\CalculatorUnitTest\bin\Debug\netstandard2.0\nunit.framework.dll
+E:\22.11.4814\01 latihan\CalculatorUnitTest\bin\Debug\netstandard2.0\CalculatorMachine.pdb
+E:\22.11.4814\01 latihan\CalculatorUnitTest\bin\Debug\netstandard2.0\nunit.framework.xml
+E:\22.11.4814\01 latihan\CalculatorUnitTest\obj\Debug\netstandard2.0\CalculatorUnitTest.csprojAssemblyReference.cache
+E:\22.11.4814\01 latihan\CalculatorUnitTest\obj\Debug\netstandard2.0\CalculatorUnitTest.AssemblyInfoInputs.cache
+E:\22.11.4814\01 latihan\CalculatorUnitTest\obj\Debug\netstandard2.0\CalculatorUnitTest.AssemblyInfo.cs
+E:\22.11.4814\01 latihan\CalculatorUnitTest\obj\Debug\netstandard2.0\CalculatorUnitTest.csproj.CoreCompileInputs.cache
+E:\22.11.4814\01 latihan\CalculatorUnitTest\obj\Debug\netstandard2.0\CalculatorUnitTest.csproj.CopyComplete
+E:\22.11.4814\01 latihan\CalculatorUnitTest\obj\Debug\netstandard2.0\CalculatorUnitTest.dll
+E:\22.11.4814\01 latihan\CalculatorUnitTest\obj\Debug\netstandard2.0\CalculatorUnitTest.pdb

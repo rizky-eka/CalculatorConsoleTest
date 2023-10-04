@@ -1,0 +1,16 @@
+E:\22.11.4814\01 latihan\CalculatorConsoleTest\bin\Debug\netcoreapp3.1\CalculatorConsoleTest.exe
+E:\22.11.4814\01 latihan\CalculatorConsoleTest\bin\Debug\netcoreapp3.1\CalculatorConsoleTest.deps.json
+E:\22.11.4814\01 latihan\CalculatorConsoleTest\bin\Debug\netcoreapp3.1\CalculatorConsoleTest.runtimeconfig.json
+E:\22.11.4814\01 latihan\CalculatorConsoleTest\bin\Debug\netcoreapp3.1\CalculatorConsoleTest.runtimeconfig.dev.json
+E:\22.11.4814\01 latihan\CalculatorConsoleTest\bin\Debug\netcoreapp3.1\CalculatorConsoleTest.dll
+E:\22.11.4814\01 latihan\CalculatorConsoleTest\bin\Debug\netcoreapp3.1\CalculatorConsoleTest.pdb
+E:\22.11.4814\01 latihan\CalculatorConsoleTest\bin\Debug\netcoreapp3.1\CalculatorMachine.dll
+E:\22.11.4814\01 latihan\CalculatorConsoleTest\bin\Debug\netcoreapp3.1\CalculatorMachine.pdb
+E:\22.11.4814\01 latihan\CalculatorConsoleTest\obj\Debug\netcoreapp3.1\CalculatorConsoleTest.csprojAssemblyReference.cache
+E:\22.11.4814\01 latihan\CalculatorConsoleTest\obj\Debug\netcoreapp3.1\CalculatorConsoleTest.AssemblyInfoInputs.cache
+E:\22.11.4814\01 latihan\CalculatorConsoleTest\obj\Debug\netcoreapp3.1\CalculatorConsoleTest.AssemblyInfo.cs
+E:\22.11.4814\01 latihan\CalculatorConsoleTest\obj\Debug\netcoreapp3.1\CalculatorConsoleTest.csproj.CoreCompileInputs.cache
+E:\22.11.4814\01 latihan\CalculatorConsoleTest\obj\Debug\netcoreapp3.1\CalculatorConsoleTest.csproj.CopyComplete
+E:\22.11.4814\01 latihan\CalculatorConsoleTest\obj\Debug\netcoreapp3.1\CalculatorConsoleTest.dll
+E:\22.11.4814\01 latihan\CalculatorConsoleTest\obj\Debug\netcoreapp3.1\CalculatorConsoleTest.pdb
+E:\22.11.4814\01 latihan\CalculatorConsoleTest\obj\Debug\netcoreapp3.1\CalculatorConsoleTest.genruntimeconfig.cache

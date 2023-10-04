@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t3pTix75XuZ5V9COvQRCzHpo9M0xGIAI4BAoXUKSXYJrtKsHYBi1i/PWIImllcmpzNX9btrWdwFqZ6MB5ZK+HA==",
+  "success": true,
+  "projectFilePath": "E:\\22.11.4814\\01 latihan\\CalculatorUnitTest\\CalculatorUnitTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amikom\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\amikom\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
